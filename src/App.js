@@ -22,6 +22,7 @@ function App() {
                 })
     },[first,second])
 
+
     useEffect(()=>{
 
         newCurrency.current.focus()
